@@ -9,8 +9,8 @@
 - ❓ Ask me about anything related to Android Apps and related technologies  
   
 
-- ⚡ Fun fact: I preffer working in a team to working alone.  
- 
+- ⚡ Fun fact: I preffer working in a team to working alone.
+<br/>
 
 ## Github Stats  
 
@@ -32,7 +32,7 @@
 
 <img align="left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> -->
 
-<br/> 
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
