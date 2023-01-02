@@ -1,4 +1,4 @@
-### <div align="center">I'm Okello Thomas, a full-time web & full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm Okello Thomas, a full-time mobile & full-stack developer 👨‍💻 </div>  
 
 - 🔭 I’m currently working on [Github Android_Navigation](https://github.com/Okellothomas/Navigation_drawer-Android.git)  
   
@@ -9,10 +9,10 @@
 - ❓ Ask me about anything related to Android Apps and related technologies  
   
 
-- ⚡ Fun fact: I preffer working in a team to working alone.
+- ⚡ Fun fact: I prefer working in a team to working alone.
 <br/>
 
-## Github Stats  
+## Github Analystics 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=okellothomas&show_icons=true&theme=radical" />
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellothomas&show_icons=true&theme=radical) -->
@@ -34,7 +34,7 @@
 
 <br/>
 
-## My Skill Set  
+## My Technical Skill Set
 <table><tr><td valign="top" width="33%">
 
 
