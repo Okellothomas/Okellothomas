@@ -17,7 +17,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=okellothomas&show_icons=true&theme=radical" />
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okellothomas&show_icons=true&theme=radical) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okellothomas&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okellothomas&layout=compact&theme=radical" />
 
 
 <!-- <img align="left" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
